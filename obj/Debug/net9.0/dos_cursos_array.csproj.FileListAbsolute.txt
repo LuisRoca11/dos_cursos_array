@@ -1,0 +1,14 @@
+/home/linux/Programacion/C Sharp/dos_cursos_array/bin/Debug/net9.0/dos_cursos_array
+/home/linux/Programacion/C Sharp/dos_cursos_array/bin/Debug/net9.0/dos_cursos_array.deps.json
+/home/linux/Programacion/C Sharp/dos_cursos_array/bin/Debug/net9.0/dos_cursos_array.runtimeconfig.json
+/home/linux/Programacion/C Sharp/dos_cursos_array/bin/Debug/net9.0/dos_cursos_array.dll
+/home/linux/Programacion/C Sharp/dos_cursos_array/bin/Debug/net9.0/dos_cursos_array.pdb
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/dos_cursos_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/dos_cursos_array.AssemblyInfoInputs.cache
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/dos_cursos_array.AssemblyInfo.cs
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/dos_cursos_array.csproj.CoreCompileInputs.cache
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/dos_cursos_array.dll
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/refint/dos_cursos_array.dll
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/dos_cursos_array.pdb
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/dos_cursos_array.genruntimeconfig.cache
+/home/linux/Programacion/C Sharp/dos_cursos_array/obj/Debug/net9.0/ref/dos_cursos_array.dll
